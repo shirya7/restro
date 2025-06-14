@@ -4,7 +4,7 @@ This is a simple static website made with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-👉 [View Website](https://github.com/shirya7restro/)
+👉 [View Website](https://github.com/shirya7/restro/)
 
 ## Features
 
